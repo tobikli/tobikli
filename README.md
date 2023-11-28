@@ -6,7 +6,7 @@
 - 🌱 joever
 
 <p align="center">
-  <img src="corgi_ama.gif" alt="bruh">
+  <img src="corgi_ama.gif" alt="Copyright Amazon" width="400">
 </p>
 
 
