@@ -1,7 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobikli)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobikli&show_icons=true&theme=dark)
 
 # tobiaswen
 - 🌱 joever
+- flutter 💀
 
 <p align="center">
   <img src="corgi_ama.gif" alt="Copyright Amazon" width="400">
