@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="sleep.gif" alt="Sleeping rn...">
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobikli)](https://github.com/anuraghazra/github-readme-stats)
 
 # tobiaswen
 - 🌱 joever
