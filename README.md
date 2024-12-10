@@ -4,7 +4,7 @@
 
 # tobiaskli
 - Current CS Student [@TUM](https://tum.de)
-- Personal Page with Projects: [lydr.io](https://lydr.io)
+- Personal Page with Projects: [tobia.sh](https://tobia.sh)
 - Java, Python, C/C#, SQL, JavaScript, HTML/CSS, PHP, Dart, Swift, OCaml
 
 <!--<p align="">
