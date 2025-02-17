@@ -2,7 +2,8 @@
 
 <a href="https://app.daily.dev/tobiaswen"><img src="https://api.daily.dev/devcards/v2/Pt6FRDMYsWo75FR5QyCfB.png?r=6yz&type=wide" width="410" alt="Tobias Klingenberg's Dev Card"/></a>
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobikli&layout=compact)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobikli&layout=compact)-->
 
 # Tobias Wen
 - Current CS Student [@TUM](https://tum.de)
