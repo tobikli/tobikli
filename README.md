@@ -2,6 +2,9 @@
 
 <!--<a href="https://app.daily.dev/tobiaswen"><img src="https://api.daily.dev/devcards/v2/Pt6FRDMYsWo75FR5QyCfB.png?r=6yz&type=wide" width="410" alt="Tobias Klingenberg's Dev Card"/></a>
 &nbsp;-->
+<p align="center">
+  <b>It is {{$today}}</b>
+</p>
 
 <p align="center">
   <img alt="" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
