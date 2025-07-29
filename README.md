@@ -3,7 +3,7 @@
 <!--<a href="https://app.daily.dev/tobiaswen"><img src="https://api.daily.dev/devcards/v2/Pt6FRDMYsWo75FR5QyCfB.png?r=6yz&type=wide" width="410" alt="Tobias Klingenberg's Dev Card"/></a>
 &nbsp;-->
 <p align="center">
-  <b>It is 28.7.2025</b>
+  <b>It is 29.7.2025</b>
 </p>
 
 <p align="center">
