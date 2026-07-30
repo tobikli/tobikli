@@ -6,6 +6,8 @@ Welcome to my GitHub 👇
 ## 👨‍💻 About Me  
 I’m a developer and student from Munich, passionate about building clean, efficient, and maintainable software. I enjoy working on full-stack projects, exploring modern technologies, and turning ideas into real, usable applications. On my website [tobiwn.me](https://tobiwn.me) you can check out my portfolio and learn more about my journey.  
 
+Some Repositories can only be found on my personal Git Server: [git.twks.net](https://git.twks.net)!
+
 ## 🔧 What I Do / My Skills  
 Here are some of the technologies and tools I work with regularly:  
 
